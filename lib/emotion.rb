@@ -1,5 +1,7 @@
 require_relative "emotion/version"
 
-module Emotion
-  # Your code goes here...
+class BasicObject
+  def ohgodwhy
+    self
+  end
 end

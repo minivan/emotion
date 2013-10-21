@@ -1,7 +1,13 @@
 require_relative "emotion/version"
 
-class BasicObject
-  def ohgodwhy
-    self
-  end
+methods = %w(ohgodwhy awyeah areyoukiddingme badass dealwithit facepalm foreveralone fuckyeah iseewhatyoudidthere itsatrap! lolwut megusta ohcrap sweetjesus dolan pls wat wtf yey)
+
+methods.each do |method_name|
+  BasicObject.class_eval <<-STR
+    def #{method_name}
+      self
+    end
+  STR
 end
+
+# HAVE FUN!

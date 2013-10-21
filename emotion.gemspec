@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Emotion::VERSION
   spec.authors       = ["Ivan Zarea"]
   spec.email         = ["zarea.ion@gmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Add some emotion to your code. Use English.}
+  spec.summary       = %q{Emotion changes the way you express yourself in Ruby. And that's good}
   spec.homepage      = ""
   spec.license       = "MIT"
 

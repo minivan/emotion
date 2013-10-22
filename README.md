@@ -41,6 +41,7 @@ That's a lot clearer, isn't it?
 - dealwithit
 - facepalm
 - foreveralone
+- ftw
 - fuckyeah
 - iseewhatyoudidthere
 - itsatrap!
@@ -53,7 +54,9 @@ That's a lot clearer, isn't it?
 - pls
 - wat
 - wtf
+- woot
 - yey
+- zbs!
 
 ## Contributing
 

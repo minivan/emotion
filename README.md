@@ -65,3 +65,8 @@ That's a lot clearer, isn't it?
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+ 
+
+### Thanks
+
+to [fuckyeah](https://github.com/somu/fuckyeah) and [Roman](https://github.com/theredguy).
